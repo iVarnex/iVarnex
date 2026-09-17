@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí / About me
+## 🧑‍💻 Sobre mí
 
 Soy estudiante y estoy en plena formación como desarrollador. Aprendo construyendo: levanto prototipos, los rompo, los mido y decido si vale la pena seguir.
 
@@ -33,7 +33,7 @@ Uso **IA como herramienta de apoyo** en mi flujo de trabajo: para explorar enfoq
 
 ---
 
-## 🎯 Objetivos / Goals
+## 🎯 Objetivos
 
 - 🎓 Graduarme como **Ingeniero en Sistemas** y especializarme en **Seguridad Informática**.
 - 🧱 Consolidar fundamentos: estructura de proyectos, testing, CI y buenas prácticas de Git.
@@ -43,7 +43,7 @@ Uso **IA como herramienta de apoyo** en mi flujo de trabajo: para explorar enfoq
 
 ---
 
-## 🧪 Proyectos actuales / Current projects
+## 🧪 Proyectos actuales
 
 > Son **experimentos de práctica**, no productos terminados. Los publico en ese estado a propósito: el objetivo es aprender y comprobar si tienen potencial.
 
@@ -73,7 +73,7 @@ Primera aproximación al laboratorio en RA, por otro camino: `<model-viewer>` de
 
 ---
 
-## 🛠️ Tecnologías / Tech stack
+## 🛠️ Tecnologías
 
 **Lenguajes**
 
@@ -101,24 +101,11 @@ Primera aproximación al laboratorio en RA, por otro camino: `<model-viewer>` de
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-**Explorando / Currently learning**
+**Explorando**
 
 <p>
   <img src="https://img.shields.io/badge/Realidad%20Aumentada-000000?style=flat-square&logo=webgl&logoColor=white" alt="Realidad Aumentada" />
   <img src="https://img.shields.io/badge/Seguridad%20Informática-0F766E?style=flat-square&logo=hackthebox&logoColor=white" alt="Seguridad Informática" />
-</p>
-
----
-
-## 📊 Estadísticas / Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iVarnex&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de GitHub de iVarnex" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVarnex&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Lenguajes más usados por iVarnex" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iVarnex&hide_border=true&theme=tokyonight" alt="Racha de contribuciones de iVarnex" />
 </p>
 
 ---
